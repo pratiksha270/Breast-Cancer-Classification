@@ -15,7 +15,7 @@ We used three publicly available datasets:
 2. DDSM (Mammography Images)
    - Labels: 0 → Benign, 1 → Malignant  
    - Used with **VGG, EfficientNet, ViT 
-   - [Included in repo: sample DDSM zip](./data/ddsm_sample.zip)
+   - [Download CBIS-DDSM](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset)
 
 3. INbreast (Mammography Images)
    - Labels: 0 → Benign, 1 → Malignant  
